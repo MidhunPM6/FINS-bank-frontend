@@ -1,19 +1,31 @@
-🚀 SkillVerse - Frontend
+# FINS Banking App
 
-Welcome to **SkillVerse**, a modern and interactive e-learning platform that empowers users to explore and learn new skills through engaging video content.
-
-This repository contains the **frontend** codebase of SkillVerse, built using **Next.js**, **TypeScript**, and modern web technologies for high performance and scalability.
+A modern **banking web application** built with **Next.js** and **Node.js**, offering secure account management, seamless transactions, and a responsive user interface for effortless online banking.
 
 ---
 
-🚧 Coming Soon – Stay tuned!
+## Features
+
+- Open and manage **savings** and **current accounts**  
+- Perform **secure transactions**  
+- Responsive design for **mobile and desktop**  
+- Light/dark mode support  
+- Real-time **account balance and activity tracking**  
+- Form validation and error handling  
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
-- ⚛️ **Next.js** – React framework for server-side rendering and static generation
-- 🔷 **TypeScript** – Strongly typed JavaScript
-- 💅 **Tailwind CSS** – Utility-first CSS for modern design
-- 📦 **Axios – For API requests
-- 🌍 **Responsive Design** – Fully responsive
+- **Frontend:** Next.js, React, Tailwind CSS, MUI  
+- **Backend:** Node.js, Nest.js  
+- **Database:** Postgresql
+- **Authentication:** JWT / PKCE OAuth 2.0  
+
+---
+
+## Getting Started
+
+1. Clone the repository:  
+```bash
+git clone https://github.com/yourusername/banking-app.git
