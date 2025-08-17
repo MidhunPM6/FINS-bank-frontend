@@ -1,9 +1,18 @@
-import Image from 'next/image'
+import BottomSection from '@/components/customer/landingPage/BottomSection'
+import HeroSection from '@/components/customer/landingPage/HeroSection'
+import InstructionSection from '@/components/customer/landingPage/InstructionSection'
+import LoanSection from '@/components/customer/landingPage/LoanSection'
+import Navbar from '@/components/ui/Navbar'
+
 
 export default function Home () {
   return (
     <>
-      <h1>Hello World!</h1>
+      <Navbar />
+      <HeroSection />
+      <InstructionSection />
+      <LoanSection />
+      <BottomSection />
     </>
   )
 }
